@@ -45,6 +45,6 @@
     ]
   },
   "resolution": {
-    "autoprefixer": "10.4.5"
+    "go": "10.4.5"
   }
 }
